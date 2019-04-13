@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Hey,I'm going to be a data scientist.
